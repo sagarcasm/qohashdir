@@ -92,13 +92,13 @@ Example Response:
 
 ### 2.3 Additional Libraries
 _Carbon_ is the design system for IBM web and product (Open Source). It is a series of individual styles, _components_, and guidelines used for creating unified UI. ([Apache-2.0 License](https://github.com/carbon-design-system/carbon/blob/main/LICENSE))
-"@carbon/charts-react": "^0.41.62",
-"@carbon/elements": "^10.33.0",
-"@carbon/icons-react": "^10.31.0",
-"@carbon/pictograms-react": "^11.9.0",
-"carbon-components": "^10.34.0",
-"carbon-components-react": "^7.34.0",
-"carbon-icons": "^7.0.7",
+1. @carbon/charts-react: 0.41.62,
+2. @carbon/elements: ^10.33.0,
+3. @carbon/icons-react: ^10.31.0,
+4. @carbon/pictograms-react": ^11.9.0,
+5. carbon-components: ^10.34.0,
+6. carbon-components-react: ^7.34.0,
+7. carbon-icons: ^7.0.7,
 
 Other important libraries:
 "d3": "5.12.0",
@@ -111,7 +111,7 @@ Other important libraries:
 
 ## 4. Deployment and Production Readiness Reviews
 There is still lot work that needs to be done. 
-1. Appropriate validations validations
+1. Appropriate validations
 2. Backend error messaging
 3. Logging Mechanisms
 4. Unit testing and integration testing
